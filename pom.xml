@@ -5,7 +5,7 @@
 	<artifactId>hello-node-java-service</artifactId>
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello gora project</name>
+	<name>hello thrift node project</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
