@@ -44,7 +44,7 @@
 						</goals>
 						<configuration>
 							<sources>
-								<source>src/main/</source>
+								<source>src/main/gen-java/</source>
 							</sources>
 						</configuration>
 					</execution>
