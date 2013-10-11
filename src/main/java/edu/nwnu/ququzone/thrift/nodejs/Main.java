@@ -7,6 +7,11 @@ import org.apache.thrift.transport.TServerSocket;
 import org.apache.thrift.transport.TServerTransport;
 import org.apache.thrift.transport.TTransportException;
 
+/**
+ * Main service server.
+ * 
+ * @author Yang XuePing
+ */
 public class Main {
 
   public static void main(String[] args) {

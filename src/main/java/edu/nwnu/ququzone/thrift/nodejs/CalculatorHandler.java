@@ -2,6 +2,11 @@ package edu.nwnu.ququzone.thrift.nodejs;
 
 import org.apache.thrift.TException;
 
+/**
+ * Service handler.
+ * 
+ * @author Yang XuePing
+ */
 public class CalculatorHandler implements Calculator.Iface {
 
   @Override
