@@ -1,0 +1,9 @@
+{
+  "name": "thrift-node-node-client",
+  "description": "thrift-node-node-client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "thrift": "*"
+  }
+}
